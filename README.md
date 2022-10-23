@@ -1,6 +1,6 @@
 ### Olá, me chamo Emanoel👋
 
-Sólida experiência em desenvolvimento de sistemas. Habilidades em ReactJS, React Native, HTML5, JavaScript, TypeScript, CSS, JAVA, entre outras. Capacidade para desenvolver e analisar projetos em andamento, trabalhar em equipe, presencial e remota, com o uso do GIT e GitHub.
+Tenho sólida experiência em desenvolvimento de sistemas. Habilidades em ReactJS, React Native, HTML5, JavaScript, TypeScript, CSS, JAVA, entre outras. Capacidade para desenvolver e analisar projetos em andamento, trabalhar em equipe, presencial e remota, com o uso do GIT e GitHub.
 
 <!--
 **emanoeledevapps/emanoeledevapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
