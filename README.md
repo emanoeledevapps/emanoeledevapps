@@ -1,6 +1,10 @@
 ### Olá, me chamo Emanoel👋
 
-Tenho sólida experiência em desenvolvimento de sistemas, com foco em ReactJS, React Native, HTML5, JavaScript, TypeScript, CSS, JAVA, entre outras. Grande capacidade para desenvolver e analisar projetos em andamento, trabalhar em equipe, presencial e remota, com o uso do GIT e GitHub.
+Tenho sólida experiência em desenvolvimento de sistemas, com foco no Front-End, utilizando ReactJS, React Native, HTML5, JavaScript, TypeScript, CSS entre outras. Grande capacidade para desenvolver e analisar projetos em andamento, trabalhar em equipe, presencial e remota, com o uso do GIT e GitHub.
+
+Atualmente trabalho como freelancer no projeto Sintrop.
+
+Estou sempre estudando: <img src={{uri: 'https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'}}/>
 
 <!--
 **emanoeledevapps/emanoeledevapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
