@@ -11,7 +11,9 @@
   <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img align='center' alt='react-native' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img align='center' alt='nodejs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
-</div>
+</div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeledevapps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Ferramentas que utilizo no meu dia
 <div style='display: inline_block, marginTop: -20'>
@@ -22,7 +24,10 @@
   <img align='center' alt='insomnia' src='https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE'/>
   <img align='center' alt='firebase' src='https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white'/>
   <img align='center' alt='postgrees' src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'/>
-  <br/>
-</div>
+</div><br/>
 
 ![Emanoel GitHub stats](https://github-readme-stats.vercel.app/api?username=emanoeledevapps&show_icons=true&theme=dracula)
+
+### Meus principais repositórios
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=decodetext)](https://github.com/anuraghazra/github-readme-stats)
