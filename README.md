@@ -1,5 +1,7 @@
 ### Olá, me chamo Emanoel Augusto✋
 
+Desenvolvedor Front End, cursando análise e desenvolvimento de sistemas e com foco no desenvolvimento web e mobile.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoel-augusto-515915233)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9001921830894234476)
 [![Site Portifólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://emanoeledevapps.github.io/)
