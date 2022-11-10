@@ -32,5 +32,6 @@
 
 ### Meus principais repositórios
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=BuscadorCEP)](https://github.com/emanoeledevapps/BuscadorCEP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=scoresbrasil)](https://github.com/emanoeledevapps/scoresbrasil)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=decodetext)](https://github.com/emanoeledevapps/decodeText)
