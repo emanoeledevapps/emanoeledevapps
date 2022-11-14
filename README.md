@@ -34,6 +34,8 @@ Desenvolvedor Front End, cursando análise e desenvolvimento de sistemas e com f
 
 ### Meus principais repositórios
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=bolaocopa-mobile)](https://github.com/emanoeledevapps/bolaocopa-mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=bolaocopa-web)](https://github.com/emanoeledevapps/bolaocopa-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=BuscadorCEP)](https://github.com/emanoeledevapps/BuscadorCEP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=scoresbrasil)](https://github.com/emanoeledevapps/scoresbrasil)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanoeledevapps&repo=decodetext)](https://github.com/emanoeledevapps/decodeText)
